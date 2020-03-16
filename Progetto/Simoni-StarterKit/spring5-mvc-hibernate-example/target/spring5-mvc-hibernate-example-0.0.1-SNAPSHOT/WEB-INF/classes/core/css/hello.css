@@ -1,0 +1,38 @@
+.checkbox-inline label, .radio-inline label{
+  font-weight: normal;
+}
+
+/* Style buttons */
+
+.btn {
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+    line-height: 1;
+    /*
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 20px;
+    cursor: pointer;*/
+}
+
+/*
+.btn:hover {
+background-color: RoyalBlue;
+}
+*/
+
+.checkbox-xl .custom-control-label::before,
+.checkbox-xl .custom-control-label::after {
+  top: 1.2rem;
+  width: 1.85rem;
+  height: 1.85rem;
+}
+
+.checkbox-xl .custom-control-label {
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 20px;
+  font-style: normal;
+}

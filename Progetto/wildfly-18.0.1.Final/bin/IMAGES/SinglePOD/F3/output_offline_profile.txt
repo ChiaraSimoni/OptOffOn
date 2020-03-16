@@ -1,0 +1,72 @@
+Components: 2
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.003948211669921875
+OBJECTIVE VALUE with function profile:0.0949665127743
+
+Components: 2
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.011029958724975586
+OBJECTIVE VALUE with function profile:0.16440141129873045
+
+Components: 3
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 1
+SOLVER TIME:0.006469011306762695
+OBJECTIVE VALUE with function profile:0.09496651165885565
+
+Components: 3
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 1
+SOLVER TIME:0.059144020080566406
+OBJECTIVE VALUE with function profile:0.1644014113230498
+
+Components: 4
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 0
+SOLVER TIME:0.019217967987060547
+OBJECTIVE VALUE with function profile:0.09496651417960658
+
+Components: 4
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 0
+SOLVER TIME:0.07009696960449219
+OBJECTIVE VALUE with function profile:0.16440141134088374
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.038346052169799805
+OBJECTIVE VALUE with function profile:0.09496651338358837
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.13740897178649902
+OBJECTIVE VALUE with function profile:0.16440141354731458
+

@@ -1,0 +1,65 @@
+Components: 13 
+    # Pv: 2
+    # Load: 3
+    # Gas Chp: 3
+    # Uchp: 2
+    # Storage: 3
+SOLVER TIME:0.09010004997253418
+OBJECTIVE VALUE with function cost:6.4720910016369615
+
+Components: 50
+    # Pv: 8
+    # Load: 16
+    # Gas Chp: 10
+    # Uchp: 9
+    # Storage: 7
+SOLVER TIME:0.42355918884277344
+OBJECTIVE VALUE with function cost:38.90448355751568
+
+
+
+Components: 250 - usa questo per la tabella
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:2.3098878860473633
+OBJECTIVE VALUE with function cost:116.11211501680839
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:24.857950925827026
+OBJECTIVE VALUE with function grid:60.1925429312838
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:2.0382890701293945
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 410 -> POD 200
+    # Pv: 80
+    # Load: 130
+    # Gas Chp: 70
+    # Uchp: 60
+    # Storage: 70
+SOLVER TIME:3.5187530517578125
+OBJECTIVE VALUE with function cost:243.68695822326617
+
+Components: 870 -> POD 400
+    # Pv: 140
+    # Load: 210
+    # Gas Chp: 170
+    # Uchp: 180
+    # Storage: 170
+SOLVER TIME:17.304649829864502
+OBJECTIVE VALUE with function cost:436.1518593343616
+

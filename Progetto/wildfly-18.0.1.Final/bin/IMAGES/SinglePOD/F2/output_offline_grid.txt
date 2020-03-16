@@ -1,0 +1,72 @@
+Components: 2
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.005419015884399414
+OBJECTIVE VALUE with function grid:2.431633958720215
+
+Components: 2
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.021424055099487305
+OBJECTIVE VALUE with function grid:3.794658118652189
+
+Components: 3
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 1
+SOLVER TIME:0.01487588882446289
+OBJECTIVE VALUE with function grid:1.5742646660123982
+
+Components: 3
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 1
+SOLVER TIME:0.03989720344543457
+OBJECTIVE VALUE with function grid:1.944910511006767
+
+Components: 4
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 0
+SOLVER TIME:0.013458013534545898
+OBJECTIVE VALUE with function grid:0.372186442899012
+
+Components: 4
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 0
+SOLVER TIME:0.03507590293884277
+OBJECTIVE VALUE with function grid:2.2012552298484476
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.022866010665893555
+OBJECTIVE VALUE with function grid:0.0
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.1325380802154541
+OBJECTIVE VALUE with function grid:0.30669655986419453
+

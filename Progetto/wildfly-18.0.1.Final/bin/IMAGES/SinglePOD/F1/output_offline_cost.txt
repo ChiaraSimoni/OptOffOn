@@ -1,0 +1,90 @@
+Components: 2 ---- load off pv off
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.009490013122558594
+OBJECTIVE VALUE with function cost:2.431633958720215
+
+Components: 2 ---- load off pv on
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.014158010482788086
+OBJECTIVE VALUE with function cost:2.7502002380910073
+
+Components: 2 ---- load on pv off
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.012166976928710938
+OBJECTIVE VALUE with function cost:3.0181225830779774
+
+Components: 2 ---- load on pv on 
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 0
+SOLVER TIME:0.022359848022460938
+OBJECTIVE VALUE with function cost:3.794658118652189
+
+Components: 3
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 1
+SOLVER TIME:0.021440982818603516
+OBJECTIVE VALUE with function cost:1.926034029845925
+
+Components: 3
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 0
+    # Uchp: 0
+    # Storage: 1
+SOLVER TIME:0.03871417045593262
+OBJECTIVE VALUE with function cost:3.256429187417964
+
+Components: 4
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 0
+SOLVER TIME:0.01208806037902832
+OBJECTIVE VALUE with function cost:2.1524136186603564
+
+Components: 4
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 0
+SOLVER TIME:0.04535222053527832
+OBJECTIVE VALUE with function cost:3.794658118652189
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.02727198600769043
+OBJECTIVE VALUE with function cost:1.7044071519728676
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.0991671085357666
+OBJECTIVE VALUE with function cost:3.256429187417964
+

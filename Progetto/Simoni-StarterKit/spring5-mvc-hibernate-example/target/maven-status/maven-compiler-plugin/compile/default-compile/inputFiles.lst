@@ -1,0 +1,9 @@
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/service/UserServiceImp.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/model/User.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/config/HibernateConfig.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/dao/UserDaoImp.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/service/UserService.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/controller/UserController.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/config/WebMvcConfig.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/config/AppInitializer.java
+/home/chiara/Desktop/Progetto/Simoni-StarterKit/spring5-mvc-hibernate-example/src/main/java/com/howtodoinjava/demo/spring/dao/UserDao.java

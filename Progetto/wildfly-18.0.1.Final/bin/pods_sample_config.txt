@@ -1,0 +1,25 @@
+allora ciao, sono muto
+
+pv,storage: 20
+pv,load: 20
+microchp,load: 30
+gaschp,microchp,storage: 15
+gaschp,storage,load: 15
+gaschp : 20
+
+40 pv
+50 st
+65 load
+50 gas
+45 micro
+
+caro diario,
+sono ormai diversi giorni che sono rinchiuso qui. non ricordo più la sensazione della luce del sole sul volto.
+voglio i biscotti.
+voglio guardare il maurizio costanzo show.
+coi biscotti.
+sono tenuto prigioniero da una viandante del futuro, una tale "Miss Tomato". mi costringe da giorni a fare le liste della spesa, ma poi va a finire che non ci si va a fare sta spesa e poi senza nutella
+un giorno di questi le faccio trovare il sedano sotto il cuscino
+continua a parlare di ciambelle, cia,belle ciambelle, ma io ste minchia di ciambelle alla crema non le ho ancora viste porca troia
+
+firmato: balasso

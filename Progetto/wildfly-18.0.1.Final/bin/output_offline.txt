@@ -1,0 +1,209 @@
+Components: 13 
+    # Pv: 2
+    # Load: 3
+    # Gas Chp: 3
+    # Uchp: 2
+    # Storage: 3
+SOLVER TIME:0.09010004997253418
+OBJECTIVE VALUE with function cost:6.4720910016369615
+
+Components: 50
+    # Pv: 8
+    # Load: 16
+    # Gas Chp: 10
+    # Uchp: 9
+    # Storage: 7
+SOLVER TIME:0.42355918884277344
+OBJECTIVE VALUE with function cost:38.90448355751568
+
+
+
+Components: 250 - usa questo per la tabella
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:2.3098878860473633
+OBJECTIVE VALUE with function cost:116.11211501680839
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:24.857950925827026
+OBJECTIVE VALUE with function grid:60.1925429312838
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:2.0382890701293945
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 410 -> POD 200
+    # Pv: 80
+    # Load: 130
+    # Gas Chp: 70
+    # Uchp: 60
+    # Storage: 70
+SOLVER TIME:3.5187530517578125
+OBJECTIVE VALUE with function cost:243.68695822326617
+
+Components: 870 -> POD 400
+    # Pv: 140
+    # Load: 210
+    # Gas Chp: 170
+    # Uchp: 180
+    # Storage: 170
+SOLVER TIME:17.304649829864502
+OBJECTIVE VALUE with function cost:436.1518593343616
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:5.745071172714233
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.47984814643859863
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.46732091903686523
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.47289204597473145
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:1.9348270893096924
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:1.8586270809173584
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:1.8768138885498047
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.46790599822998047
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.45983195304870605
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.4739410877227783
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.5084719657897949
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.5082941055297852
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.5082991123199463
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:0.5285828113555908
+OBJECTIVE VALUE with function profile:126022.12975196728
+
+Components: 250
+    # Pv: 40
+    # Load: 65
+    # Gas Chp: 50
+    # Uchp: 45
+    # Storage: 50
+SOLVER TIME:1.8834521770477295
+OBJECTIVE VALUE with function profile:147958.2124847741
+
+Components: 5
+    # Pv: 1
+    # Load: 1
+    # Gas Chp: 1
+    # Uchp: 1
+    # Storage: 1
+SOLVER TIME:0.17254400253295898
+OBJECTIVE VALUE with function profile:0.16440141354731458
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring5-mvc-hibernate-example:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f15874f0-f161-443c-b0e2-8a6964d3a494" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring5-mvc-hibernate-example" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SI1w81NaE437hibxtUwz2Nk3MT" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="spring5-mvc-hibernate-example" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f15874f0-f161-443c-b0e2-8a6964d3a494" name="Default Changelist" comment="" />
+      <created>1571236531278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571236531278</updated>
+      <workItem from="1571236536183" duration="2584000" />
+      <workItem from="1573812726533" duration="1132000" />
+      <workItem from="1578922609411" duration="2311000" />
+      <workItem from="1578925214712" duration="41000" />
+      <workItem from="1578925411588" duration="1994000" />
+      <workItem from="1579275048716" duration="1601000" />
+      <workItem from="1579366464649" duration="29000" />
+      <workItem from="1579384789067" duration="191000" />
+      <workItem from="1579447278575" duration="7991000" />
+      <workItem from="1579461048684" duration="4640000" />
+      <workItem from="1579469310385" duration="3203000" />
+      <workItem from="1579472681609" duration="364000" />
+      <workItem from="1579518792806" duration="15204000" />
+      <workItem from="1579545905468" duration="3974000" />
+      <workItem from="1579603547163" duration="2320000" />
+      <workItem from="1579609960408" duration="489000" />
+      <workItem from="1579615692709" duration="140000" />
+      <workItem from="1579627821204" duration="2809000" />
+      <workItem from="1579636162532" duration="1542000" />
+      <workItem from="1579687213199" duration="1122000" />
+      <workItem from="1579704198640" duration="2641000" />
+      <workItem from="1579711882418" duration="5000" />
+      <workItem from="1580149020539" duration="25000" />
+      <workItem from="1580202171055" duration="2433000" />
+      <workItem from="1580205008983" duration="27376000" />
+      <workItem from="1580236784295" duration="22000" />
+      <workItem from="1580236829675" duration="46000" />
+      <workItem from="1580290400996" duration="8535000" />
+      <workItem from="1580302820899" duration="4725000" />
+      <workItem from="1580313467559" duration="2201000" />
+      <workItem from="1580378036352" duration="644000" />
+      <workItem from="1580390842856" duration="12222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
